@@ -2,7 +2,7 @@ import unittest
 from typing import List, Optional
 
 from Searching_Generic.structures import Maze, MCState, Node, display_solution, MAX_NUM
-from excersises import binary_contains, linear_contains, create_test_list, dfs, bfs, astar
+from exersises import binary_contains, linear_contains, create_test_list, dfs, bfs, astar
 from Searching_Generic.searching import manhattan_distance, node_to_path
 
 

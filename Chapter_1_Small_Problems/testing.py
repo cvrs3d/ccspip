@@ -1,5 +1,5 @@
 import unittest
-from excercises import ex_fibonacci, CompressedGene, BitArray, towers_of_hanoi, Stack
+from exercises import ex_fibonacci, CompressedGene, BitArray, towers_of_hanoi, Stack
 
 
 class MyTestCase(unittest.TestCase):
